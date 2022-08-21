@@ -1,0 +1,49 @@
+ .ajax-auth .lh1{
+    font-size: 20px !important;
+    font-family: poppins;
+}
+form.ajax-auth{
+    max-width: 450px !important;
+}
+#lwp_login.ajax-auth input.lwp_username{
+    width:100%;
+    height: 45px !important;
+}
+#lwp_country_codes{
+    display: none;
+}
+.submit_button{
+    padding: 15px;
+}
+button.submit_button.auth_phoneNumber {
+    font-size: 17px;
+}
+button.submit_button.auth_secCode{
+    font-size: 17px;
+}
+.lwp_labels{
+    color: red !important;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input.required.lwp_scode{
+    border-width: 0px 0px 2px 0px!important;
+border-radius: 0px 0px 0px 0px !important;
+}
+.ajax-auth .lwp_line{
+    display: none;
+}
+span.accept_terms_and_conditions_text {
+    font-family: poppins;
+    font-size: 13px;
+}
+.lwp_timer{
+    display: none;
+}
+.ajax-auth p.status{
+      margin: -5px 0 20px 0;
+}
+a.lwp_change_pn {
+    font-size: 15px;
+}
